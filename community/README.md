@@ -1,6 +1,6 @@
-# community
+# ReachOut
+Help the needy ones
 
-A new Flutter project.
 
 ## Getting Started
 
